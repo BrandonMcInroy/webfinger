@@ -1,0 +1,9 @@
+{
+  "subject": "acct:${admin@brandosvault111.ca}",
+  "links": [
+    {
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "${https://auth.brandosvault111.ca/application/o/tailscale/}"
+    }
+  ]
+}
